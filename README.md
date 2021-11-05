@@ -1,5 +1,7 @@
 # Starter Web Project
 
+Prosty projekt storny internetowe pokazujacy jak uzyc GIT i GITHUB together
+
 ## Introduction
 
 ## Puspose
