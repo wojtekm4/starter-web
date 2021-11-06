@@ -9,3 +9,7 @@ Prosty projekt storny internetowe pokazujacy jak uzyc GIT i GITHUB together
 ## Deployment
 
 ## How to contribute
+
+### Copyright
+
+Git.taining 2014
