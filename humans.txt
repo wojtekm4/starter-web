@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wojtek	wojciechmichalski@wp.pl dupadupadupa
 
 # THANKS
 
